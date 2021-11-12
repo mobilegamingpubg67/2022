@@ -10,7 +10,7 @@
     <meta property="og:url" content="http://hny.catvik.com/2020/" />
     <meta property="og:description" content="😀😀😀😀" />
     <meta property="og:site_name" content="😀😀😍😍" />
-    <meta property="og:image" content="../../ogf.jpg" /> 
+    <meta property="og:image" content="../2022/ogf.jpg" /> 
 <title><?php
 if($n==null)
 
@@ -18,8 +18,8 @@ if($n==null)
     else
     echo $_GET["n"];
 ?> wishing you Happy New Year 2021</title>
-    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-    <script src="../../ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../2022/animate.min.css">
+    <script src="../2022/jquery.min.js"></script>
 <script src="../slide.js" type="text/javascript"></script>
 <style>
 @font-face {font-family: "SF Espresso Shack";
